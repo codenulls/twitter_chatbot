@@ -15,7 +15,7 @@ pip install tweepy
 
 ## Usage
 
-Go to https://apps.twitter.com, and create your application, once your application is created then click on "Keys and Access Tokens" tab, and copy-paste that information in twitter.ini file.  
+Go to https://apps.twitter.com, and create your application. Now, click on "Keys and Access Tokens" tab, and copy-paste that information in twitter.ini file.  
 
 Once you have downloaded this project, extract the files to a folder if it's a zip file. Create a new python file in that folder, and add this code: 
 
