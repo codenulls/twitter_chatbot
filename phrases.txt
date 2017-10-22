@@ -1,0 +1,40 @@
+# File Format: messageReceived = replyText
+# You can also do:
+#   messageReceived1, messageReceived2, messageReceived3 = replyText 
+# but you CANNOT have multiple reply-text separated with a comma
+
+# Any line that starts with a hashtag character is a comment, and it will be ignored
+# Empty lines are also ignored
+# The text is NOT case-sensitive
+
+# Spaces before and after text will be stripped,
+# for example "Hey =  Hello", replyText won't be " Hello," but "Hello" instead
+# Also, kindly, don't insert a dot at the end of a phrases, 
+# you can insert multiple dots in the middle of phrases
+# Here are some examples: 
+
+Hey, Hello = Hi
+Hi = Hello
+How are you, how r u = I'm fine. Thank you
+
+what's up, waddup, whats up, sup, wassup = Not much ^^
+yo, yoyo = Yo!
+
+are you a bot, are you bot = I'M A REAL HUMAN. REAL! REAL! REAL
+r u a bot, r u bot = I'M A REAL HUMAN. REAL! REAL! REAL
+
+robot, robots = Robots are cool
+
+What is your age = My age is 18
+
+what do you do, your occupation = I'm a computer programmer
+what do u do, ur occupation = I'm a computer programmer
+my occupation = That's nice
+
+I hate you = Why? 
+nice work, good job, I like you = Well, thank you
+
+you like to eat = Maybe, that's a hard question
+do you lift = Nope, I don't :|
+
+what is your favourite food, what is your favorite food = Pancakes
