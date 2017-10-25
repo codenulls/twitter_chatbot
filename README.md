@@ -4,9 +4,15 @@ Twitter bot is basically a program/script that controls one or more twitter acco
 
 This is a simple twitter bot that will send a reply in a single or multiple tweets depending on the size of the reply to the tweet in which we were tagged in; thus creating a chatbot. 
 
+# Tutorial 
+
+This project is a part of a tutorial. Please check the article for complete guide: 
+
+https://codenulls.blogspot.com/2017/10/how-to-create-simple-twitter-bot.html
+
 ### Prerequisites
 
-Python: https://www.python.org/downloads/
+Python 2.7: https://www.python.org/downloads/
 
 Tweepy: 
 ```
