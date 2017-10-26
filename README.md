@@ -6,7 +6,7 @@ This is a simple twitter bot that will send a reply in a single or multiple twee
 
 ## Tutorial 
 
-This project is a part of a tutorial. Please check the article for complete guide: 
+This project is a part of a tutorial. Please, check the article for a complete guide: 
 
 https://codenulls.blogspot.com/2017/10/how-to-create-simple-twitter-bot.html
 
